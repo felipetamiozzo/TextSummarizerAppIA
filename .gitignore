@@ -1,2 +1,5 @@
+# Ignorar a pasta env (ambiente virtual Python)
 env/
+
+# Ignorar o arquivo .env (variáveis de ambiente)
 .env
